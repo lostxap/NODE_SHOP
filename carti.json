@@ -1,0 +1,30 @@
+{
+    "profiles" : [
+    {
+        "nume":"Prizionerul Cerului",
+        "bio":"The Prisoner of Heaven este o carte din 2011 scrisă de Carlos Ruiz Zafón. Publicat inițial în spaniolă, ulterior a fost tradus în engleză de Lucia Graves. Acesta este al treilea roman din seria „Cimitirul cărților uitate” scris de autor. Cartea începe la un an de la nunta lui Daniel Sempere și Beatriz Aguliar",
+        "pret":"25lei",
+        "autor":"Carlos Ruiz Zafón",
+        "imgSrc": "c1.jpg",
+        "id":"c1"
+    },
+    {
+        "nume":"Marina",
+        "bio":"Marina este un roman care aparține tinerei ficțiuni adulte a scriitorului spaniol Carlos Ruiz Zafón. A fost publicată în 1999 de editura Edebé și reeditată în februarie 2017, aducând totalul la aproximativ treisprezece ediții",
+        "pret":"15lei",
+        "autor":"Carlos Ruiz Zafón",
+        "imgSrc": "c2.jpg",
+        "id":"c2"
+    },
+    {
+        "nume":"Jocul îngerului",
+        "bio":"Jocul Îngerului este o preelecție din 2001, Umbra vântului, a autorului spaniol Carlos Ruiz Zafón. Romanul marchează întoarcerea la Cimitirul Cărților Uitate din cartierul Raval din Barcelona și la librăria Sempere & Sons. Ca și Umbra vântului, a fost tradusă în engleză de Lucia Graves și publicată în 2009.",
+        "pret":"12lei",
+        "autor":"Carlos Ruiz Zafón",
+        "imgSrc": "c3.jpg",
+        "id":"c3"
+        
+    }
+    ]
+
+}
