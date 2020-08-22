@@ -14,6 +14,7 @@
   
  
   body {
+    
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; /* [2] */
   }
   
@@ -24,9 +25,11 @@
     justify-content: center;
     align-items: center;
     height: 80px;
-    background-color: #1f66eb;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
     color: #FFFFFF;
     margin-bottom: 50px;
+    padding: 60px;
+
   }
   
   
@@ -38,8 +41,9 @@
     width: 960px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
+    max-width: 99%;
   }
   
   
@@ -49,6 +53,8 @@
   
   .carte {
     text-align: center;
+    
+    
   }
   
   .carte > * {
@@ -66,8 +72,9 @@
      ========================================================================== */
   
   .profile {
+    
     display: flex;
-    height: 100vh;
+    height: 130vh;
     width: 100%;
   }
   
@@ -110,3 +117,4 @@
     border-radius: 5px;
   }
   
+
